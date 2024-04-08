@@ -2,7 +2,7 @@
 
 - ~~Ifs aninhados~~
 - ~~Código replicado~~
-- Mistura de responsabilidades
+- ~~Mistura de responsabilidades~~
 - Tratamento de erro inadequado
-- Nomes ruins
+- ~~Nomes ruins~~
 - ~~Magic numbers~~
